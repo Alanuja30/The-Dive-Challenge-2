@@ -111,5 +111,14 @@ Ejemplo:
 ```bash
 ./laberinto 21 21
 ```
----
-## Autor: Alan Nuñez Jara
+# Laberinto Maestro
+
+Este proyecto genera laberintos aleatorios y los resuelve automáticamente usando DFS y BFS.
+
+## Ejemplo de laberinto resuelto
+
+![Laberinto Resuelto](laberinto.png)
+
+## Algoritmos
+- DFS: Generación del laberinto
+- BFS: Resolución automática para el camino más corto
