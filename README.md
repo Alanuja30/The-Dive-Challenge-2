@@ -110,3 +110,5 @@ Ejemplo:
 
 ```bash
 ./laberinto 21 21
+
+## Autor: Alan Nuñez Jara
